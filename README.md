@@ -48,8 +48,8 @@ Student_Attendance_System/
 │   ├── upload photo.png
 │   ├── search.png
 │   └── Layer_4.png
-└── Student_attendence/
-    └── Student Image/
+└── Student Image/
+
 ```
 
 
