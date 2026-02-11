@@ -1,4 +1,4 @@
-🎓 Student Attendance Management System
+## 🎓 Student Attendance Management System
 
 A desktop-based **Student Attendance Management System** developed using **Python** and **Tkinter**, designed to manage student records efficiently with **Excel-based storage** and image handling. This application provides a clean GUI for adding, searching, and updating student details, suitable for academic institutions and small-scale administrative use.
 
