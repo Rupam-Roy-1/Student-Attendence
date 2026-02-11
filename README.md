@@ -41,7 +41,7 @@ The project demonstrates practical usage of Python GUI development, file handlin
 ```
 Student_Attendance_System/
 │
-├── main.py
+├── attendence.py
 ├── Students_data.xlsx
 ├── README.md
 ├── Image/
