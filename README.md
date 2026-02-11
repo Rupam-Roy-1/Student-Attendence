@@ -1,4 +1,4 @@
-<img width="1542" height="894" alt="image" src="https://github.com/user-attachments/assets/8bdf31e0-9429-4090-a611-1879b8fc8536" /># 🎓 Student Attendance Management System
+🎓 Student Attendance Management System
 
 A desktop-based **Student Attendance Management System** developed using **Python** and **Tkinter**, designed to manage student records efficiently with **Excel-based storage** and image handling. This application provides a clean GUI for adding, searching, and updating student details, suitable for academic institutions and small-scale administrative use.
 
@@ -84,7 +84,7 @@ All records are stored in `Students_data.xlsx`.
 
 ### Main Application Window
 
-<img width="1542" height="894" alt="image" src="https://github.com/user-attachments/assets/827e0f35-d386-4ba2-bfa7-e35521b98004" />
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/827e0f35-d386-4ba2-bfa7-e35521b98004" />
 
 
 > Upload `screenshot.png` to the repository root for display.
